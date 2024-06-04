@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / ViewPatterns.md
+## ViewPatterns
 [https://ocharles.org.uk/posts/2014-12-02-view-patterns.html](https://ocharles.org.uk/posts/2014-12-02-view-patterns.html)
 
 ViewPattern의 예제. 함수 f는 입력값으로 함수 g를 받고 그결과가 "here"에 매칭이 되면 "correct!"를 반환하는 함수이다. 

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / StrictData.md
+## StrictData
 Strict 확장과 동일한 기능을 수행하지만 data 타입의 field에 대해서 명시적으로 게으른(lazyness)으로 선언할수 있도록 해줍니다.
 
 StrictData 확장을 사용한 예제 입니다.

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / GLFW.md
+## GLFW
 [https://www.glfw.org/documentation.html](https://www.glfw.org/documentation.html)
 
 [https://wiki.haskell.org/GLFW](https://wiki.haskell.org/GLFW)

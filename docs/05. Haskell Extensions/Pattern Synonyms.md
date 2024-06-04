@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Pattern Synonyms.md
+## Pattern Synonyms
 [https://gitlab.haskell.org/ghc/ghc/wikis/pattern-synonyms](https://gitlab.haskell.org/ghc/ghc/wikis/pattern-synonyms)
 
 [https://mpickering.github.io/posts/2014-11-27-pain-free.html](https://mpickering.github.io/posts/2014-11-27-pain-free.html)

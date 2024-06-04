@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / const 예제.md
+## const 예제
 It's useful for passing to higher-order functions when you don't need all their flexibility. For example, the monadic sequence operator >> can be defined in terms of the monadic bind operator as
 ```
 x >> y = x >>= const y

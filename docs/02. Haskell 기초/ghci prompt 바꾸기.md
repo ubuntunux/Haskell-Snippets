@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [02. Haskell 기초](README.md) / ghci prompt 바꾸기.md
+## ghci prompt 바꾸기
 prompt 바꾸기
 ```
 Prelude> :set prompt "λ> "

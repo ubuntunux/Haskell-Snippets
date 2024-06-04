@@ -1,3 +1,5 @@
+> [Haskell Snippets](../../README.md) / [02. Haskell 기초](../README.md) / [각종 오류상황 대처하기](README.md) / It is a member of the hidden package. 패키지가 안불러와 질때... .md
+## It is a member of the hidden package. 패키지가 안불러와 질때... 
 패키지를 불러오려고 했더니 아래와 같은 에러메시지를 내뿜는 경우가 있다.
 패키지가 숨겨져 있다는 뜻인거 같다.
 

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / easytensor.md
+## easytensor
 [https://hackage.haskell.org/package/easytensor](https://hackage.haskell.org/package/easytensor)
 
 [https://hackage.haskell.org/package/easytensor-2.1.0.0/docs/Numeric-DataFrame-Type.html](https://hackage.haskell.org/package/easytensor-2.1.0.0/docs/Numeric-DataFrame-Type.html)

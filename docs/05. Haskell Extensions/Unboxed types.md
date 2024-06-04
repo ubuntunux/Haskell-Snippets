@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Unboxed types.md
+## Unboxed types
 [http://dev.stephendiehl.com/hask/#unboxed-types](http://dev.stephendiehl.com/hask/#unboxed-types)
 
 [https://www.fpcomplete.com/blog/2015/02/primitive-haskell](https://www.fpcomplete.com/blog/2015/02/primitive-haskell)

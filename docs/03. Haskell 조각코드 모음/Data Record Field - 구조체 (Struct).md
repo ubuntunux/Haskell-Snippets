@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Data Record Field - 구조체 (Struct).md
+## Data Record Field - 구조체 (Struct)
 [https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68](https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68)
 
 [http://www.haskellforall.com/2020/07/record-constructors.html?m=1](http://www.haskellforall.com/2020/07/record-constructors.html?m=1)

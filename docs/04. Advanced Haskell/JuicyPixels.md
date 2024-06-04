@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / JuicyPixels.md
+## JuicyPixels
 [https://github.com/Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels)
 
 [https://www.stackbuilders.com/tutorials/haskell/image-processing/](https://www.stackbuilders.com/tutorials/haskell/image-processing/)

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / $ 연산자 - dollar operator.md
+## $ 연산자 - dollar operator
 ```
 $ 연산자는 보통 괄호 대신 쓰이곤 한다.
 

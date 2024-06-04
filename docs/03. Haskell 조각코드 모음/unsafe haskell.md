@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / unsafe haskell.md
+## unsafe haskell
 [http://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-Exts.html#v:unsafeCoerce-35-](http://hackage.haskell.org/package/base-4.12.0.0/docs/GHC-Exts.html#v:unsafeCoerce-35-)
 
 #### unsafeCoerce

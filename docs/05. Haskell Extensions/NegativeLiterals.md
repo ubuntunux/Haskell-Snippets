@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / NegativeLiterals.md
+## NegativeLiterals
 아주 간단한 연산을 한가지 해보자. 1과 -1을 서로 더하면 0이 되겠지만 Haskell에서는 -가 함수로 간주되기 때문에 1 + -1을 실행하면 에러가 발생한다.
 ```
 > 1 + -1

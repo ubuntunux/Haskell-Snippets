@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Arrow.md
+## Arrow
 [https://ocharles.org.uk/guest-posts/2014-12-21-arrows.html](https://ocharles.org.uk/guest-posts/2014-12-21-arrows.html)
 
 ```

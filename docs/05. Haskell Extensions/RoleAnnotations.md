@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / RoleAnnotations.md
+## RoleAnnotations
 [https://gitlab.haskell.org/ghc/ghc/wikis/roles](https://gitlab.haskell.org/ghc/ghc/wikis/roles)
 
 Role Annotations은 data, newtype, type class에서 선언되는 타입변수의 역활을 지정하는데 사용됩니다. 

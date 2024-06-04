@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [01. Haskell 시작하기](README.md) / IDE - Intellij.md
+## IDE - Intellij
 [https://github.com/rikvdkleij/intellij-haskell#installing-the-plugin](https://github.com/rikvdkleij/intellij-haskell#installing-the-plugin)
 
 # Haskell, Stack and Intellij IDEA IDE setup tutorial how to get started

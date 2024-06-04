@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / 시간측정 - Timing computations.md
+## 시간측정 - Timing computations
 [https://wiki.haskell.org/Timing_computations](https://wiki.haskell.org/Timing_computations)
 
 ```

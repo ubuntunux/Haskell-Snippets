@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / Lens.md
+## Lens
 [https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references](https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references)
 
 [https://github.com/ekmett/lens](https://github.com/ekmett/lens)

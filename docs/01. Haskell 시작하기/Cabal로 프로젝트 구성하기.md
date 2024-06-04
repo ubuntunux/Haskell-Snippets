@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [01. Haskell 시작하기](README.md) / Cabal로 프로젝트 구성하기.md
+## Cabal로 프로젝트 구성하기
 [https://wiki.haskell.org/How_to_write_a_Haskell_program#Recommended_tools](https://wiki.haskell.org/How_to_write_a_Haskell_program#Recommended_tools/)
 
 Cabal을 이용하여 하스켈 프로젝트를 구성하는 방법이다. 요즘은 대부분 stack을 추천하는것 같다.

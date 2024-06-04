@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Strict.md
+## Strict
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-Strict](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-Strict)
 
 하스켈은 기본적으로 데이타 타입을 게으른(lazyness) 지연평가 타입으로 간주하고 반대로 엄격한(strict) 즉시평가 타입을 사용하고 싶을때 ! 를 변수앞에 붙여주곤 합니다. ! 를 사용하려면 BangPatterns 확장을 활성화 해야 합니다.

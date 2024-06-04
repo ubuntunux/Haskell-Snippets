@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Difference between mod and rem in Haskell.md
+## Difference between `mod` and `rem` in Haskell
 You can really notice the difference when you use a negative number as second parameter and the result is not zero:
 
 ```

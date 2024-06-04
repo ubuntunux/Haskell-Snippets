@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [02. Haskell 기초](README.md) / Package 정보 알아내기.md
+## Package 정보 알아내기
 ```
 > cabal info gtk
 ```

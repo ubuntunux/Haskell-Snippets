@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [01. Haskell 시작하기](README.md) / Haskell 기본설정.md
+## Haskell 기본설정
 [https://www.youtube.com/watch?v=5p2Aq3bRuL0](https://www.youtube.com/watch?v=5p2Aq3bRuL0)
 
 IntelliJ + Haskell PlugIn is best.

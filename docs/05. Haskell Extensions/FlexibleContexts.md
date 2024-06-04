@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / FlexibleContexts.md
+## FlexibleContexts
 [https://stackoverflow.com/questions/31251163/what-is-the-flexiblecontexts-extension-good-for-could-you-please-explain-it-usi?answertab=votes#tab-top](https://stackoverflow.com/questions/31251163/what-is-the-flexiblecontexts-extension-good-for-could-you-please-explain-it-usi?answertab=votes#tab-top)
 
 FlexibleContexts, FlexibleInstances 이 두가지 확장은 비슷한 성격을 가지는데, 바로 typeclass의 instance나 함수를 선언시 Num a => a 등과 같이 Num 타입클래스에 대해 타입변수 a를 사용해야만 하는데 FlexibleContexts, FlexibleInstances 확장을 사용하면 Num Int, Num Float 처럼 좀더 명확하고 원하는 타입에 대해서만 동작이 가능하도록 해준다.

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / RecordWildCards.md
+## RecordWildCards
 [https://ocharles.org.uk/posts/2014-12-04-record-wildcards.html](https://ocharles.org.uk/posts/2014-12-04-record-wildcards.html)
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-RecordWildCards](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-RecordWildCards)
 

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Parsing Text - Data.Attoparsec.Text.md
+## Parsing Text - Data.Attoparsec.Text
 [https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/attoparsec)
 
 [http://hackage.haskell.org/package/attoparsec-0.13.2.2/docs/Data-Attoparsec-Text.html](http://hackage.haskell.org/package/attoparsec-0.13.2.2/docs/Data-Attoparsec-Text.html)

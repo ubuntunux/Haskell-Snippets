@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / FFI example.md
+## FFI example
 [https://wiki.haskell.org/GHC/Using_the_FFI](https://wiki.haskell.org/GHC/Using_the_FFI)
 
 [https://www.fpcomplete.com/blog/2015/05/inline-c/](https://www.fpcomplete.com/blog/2015/05/inline-c/)

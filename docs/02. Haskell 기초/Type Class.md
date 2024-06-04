@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [02. Haskell 기초](README.md) / Type Class.md
+## Type Class
 [https://wiki.haskell.org/Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 
 타입클래스의 종류와 인터페이스

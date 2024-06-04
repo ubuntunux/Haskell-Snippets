@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / Haskell Operators ( 특수문자 ).md
+## Haskell Operators ( 특수문자 )
 [https://haskell.fpcomplete.com/tutorial/operators](https://haskell.fpcomplete.com/tutorial/operators)
 
 ```

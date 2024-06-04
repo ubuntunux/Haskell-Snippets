@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Time.md
+## Time
 [https://two-wrongs.com/haskell-time-library-tutorial.html](https://two-wrongs.com/haskell-time-library-tutorial.html)
 
 [http://hackage.haskell.org/package/time-1.10/docs/Data-Time-Clock.html](http://hackage.haskell.org/package/time-1.10/docs/Data-Time-Clock.html)

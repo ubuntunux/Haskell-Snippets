@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / A Guide to Mutable References (IORef, MVar, TVar, TMVar, STRef).md
+## A Guide to Mutable References (IORef, MVar, TVar, TMVar, STRef)
 [https://www.kovach.me/posts/2017-06-22-mutable-references.html](https://www.kovach.me/posts/2017-06-22-mutable-references.html)
 
 Performance :: STRef is faster than IORef

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [01. Haskell 시작하기](README.md) / GHCI 명령어.md
+## GHCI 명령어
     :l 파일불러오기
     :m 모듈불러오기
     :m +ModuleName - 모듈추가하기

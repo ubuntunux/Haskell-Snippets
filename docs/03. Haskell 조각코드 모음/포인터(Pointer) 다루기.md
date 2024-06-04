@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / 포인터(Pointer) 다루기.md
+## 포인터(Pointer) 다루기
 [https://www.haskell.org/haddock/libraries/GHC.Ptr.html](https://www.haskell.org/haddock/libraries/GHC.Ptr.html)
 
 [http://hackage.haskell.org/package/base-4.12.0.0/docs/Foreign-Ptr.html](http://hackage.haskell.org/package/base-4.12.0.0/docs/Foreign-Ptr.html)

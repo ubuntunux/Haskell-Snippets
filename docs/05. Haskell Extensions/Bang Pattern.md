@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Bang Pattern.md
+## Bang Pattern
 [https://ocharles.org.uk/posts/2014-12-05-bang-patterns.html](https://ocharles.org.uk/posts/2014-12-05-bang-patterns.html)
 
 [https://opentutorials.org/course/2063/11209](https://opentutorials.org/course/2063/11209)

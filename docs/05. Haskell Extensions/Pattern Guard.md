@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Pattern Guard.md
+## Pattern Guard
 Pattern Guard 왼쪽화살표(<-)를 사용하며 많은 인수에 대한 패턴일치가 필요할때 유용하다.
 
 예제)

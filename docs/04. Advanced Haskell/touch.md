@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / touch.md
+## touch
 [https://mail.haskell.org/pipermail/glasgow-haskell-users/2014-December/025502.html](https://mail.haskell.org/pipermail/glasgow-haskell-users/2014-December/025502.html)
 
 Keep variables live (when using interior pointers)

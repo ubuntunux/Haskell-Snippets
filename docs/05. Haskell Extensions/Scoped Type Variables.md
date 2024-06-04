@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Scoped Type Variables.md
+## Scoped Type Variables
 [https://ocharles.org.uk/guest-posts/2014-12-20-scoped-type-variables.html](https://ocharles.org.uk/guest-posts/2014-12-20-scoped-type-variables.html)
 
 [https://opentutorials.org/course/2063/11682](https://opentutorials.org/course/2063/11682)

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / PolyKinds.md
+## PolyKinds
 [https://downloads.haskell.org/~ghc/7.8.4/docs/html/users_guide/kind-polymorphism.html](https://downloads.haskell.org/~ghc/7.8.4/docs/html/users_guide/kind-polymorphism.html)
 
 Allow kind polymorphic types.

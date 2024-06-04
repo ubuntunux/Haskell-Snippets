@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / RecursiveDo.md
+## RecursiveDo
 [https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions#recursivedo-and-dorec](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions#recursivedo-and-dorec)<br>
 [https://ocharles.org.uk/posts/2014-12-09-recursive-do.html](https://ocharles.org.uk/posts/2014-12-09-recursive-do.html)
 

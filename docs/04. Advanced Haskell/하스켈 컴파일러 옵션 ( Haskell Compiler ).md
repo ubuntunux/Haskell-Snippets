@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / 하스켈 컴파일러 옵션 ( Haskell Compiler ).md
+## 하스켈 컴파일러 옵션 ( Haskell Compiler )
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/using-warnings.html?highlight=unused-top-binds](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/using-warnings.html?highlight=unused-top-binds)
 
 GHC has a number of options that select which types of non-fatal error messages, otherwise known as warnings, can be generated during compilation. Some options control individual warnings and others control collections of warnings. To turn off an individual warning -W<wflag>, use -Wno-<wflag>. To reverse``-Werror``, which makes all warnings into errors, use -Wwarn.

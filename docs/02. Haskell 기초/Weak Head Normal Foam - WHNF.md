@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [02. Haskell 기초](README.md) / Weak Head Normal Foam - WHNF.md
+## Weak Head Normal Foam - WHNF
 [https://opentutorials.org/module/1941/11208](https://opentutorials.org/module/1941/11208)
 
 Haskell에서는 식을 평가할 때 식이 Weak Head Normal Form(WHNF)의 형태가 될 때까지만 평가합니다. WHNF는 다음과 같은 형태를 가진 표현식을 의미합니다.

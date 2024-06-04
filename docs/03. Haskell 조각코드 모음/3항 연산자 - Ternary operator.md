@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / 3항 연산자 - Ternary operator.md
+## 3항 연산자 - Ternary operator
 [https://wiki.haskell.org/Ternary_operator](https://wiki.haskell.org/Ternary_operator)
 
 With a bit of work, we can define a ternary conditional operator in Haskell. Courtesy of Andrew Baumann. This appears only to be valid in Hugs?

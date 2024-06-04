@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / OverloadedStrings.md
+## OverloadedStrings
 [https://ocharles.org.uk/posts/2014-12-17-overloaded-strings.html](https://ocharles.org.uk/posts/2014-12-17-overloaded-strings.html)
 
 

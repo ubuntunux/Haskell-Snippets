@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / ByteString.md
+## ByteString
 [https://hackage.haskell.org/package/bytestring-0.10.8.2/docs/Data-ByteString.html](https://hackage.haskell.org/package/bytestring-0.10.8.2/docs/Data-ByteString.html)
 
 [https://hackage.haskell.org/package/bytestring-0.10.10.1/docs/Data-ByteString-Char8.html](https://hackage.haskell.org/package/bytestring-0.10.10.1/docs/Data-ByteString-Char8.html)

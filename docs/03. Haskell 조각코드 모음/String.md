@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / String.md
+## String
 [https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings)
 
 [https://tech.fpcomplete.com/haskell/tutorial/string-types](https://tech.fpcomplete.com/haskell/tutorial/string-types)

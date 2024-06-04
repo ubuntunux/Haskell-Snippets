@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [06. GUI](README.md) / gtk2hs.md
+## gtk2hs
 [https://github.com/gtk2hs/gtk2hs](https://github.com/gtk2hs/gtk2hs)
 
 [http://www.muitovar.com/gtk2hs/chap2.html](http://www.muitovar.com/gtk2hs/chap2.html)

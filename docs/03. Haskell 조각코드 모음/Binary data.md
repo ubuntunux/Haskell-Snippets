@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Binary data.md
+## Binary data
 [https://wiki.haskell.org/Dealing_with_binary_data](https://wiki.haskell.org/Dealing_with_binary_data)
 
 [https://hackage.haskell.org/package/binary-0.8.7.0/docs/Data-Binary.html](https://hackage.haskell.org/package/binary-0.8.7.0/docs/Data-Binary.html)

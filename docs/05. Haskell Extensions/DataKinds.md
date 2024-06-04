@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / DataKinds.md
+## DataKinds
 [https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)<br>
 [https://stackoverflow.com/questions/20558648/what-is-the-datakinds-extension-of-haskell](https://stackoverflow.com/questions/20558648/what-is-the-datakinds-extension-of-haskell)
 

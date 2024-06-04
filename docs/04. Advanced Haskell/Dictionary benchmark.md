@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / Dictionary benchmark.md
+## Dictionary benchmark
 [https://github.com/haskell-perf/dictionaries](https://github.com/haskell-perf/dictionaries)
 
 # dictionaries

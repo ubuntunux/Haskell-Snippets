@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / DuplicateRecordFields.md
+## DuplicateRecordFields
 ```
 {-# LANGUAGE DuplicateRecordFields #-}
 

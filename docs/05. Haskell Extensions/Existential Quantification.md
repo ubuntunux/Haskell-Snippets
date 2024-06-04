@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Existential Quantification.md
+## Existential Quantification
 [https://stackoverflow.com/questions/9259921/haskell-existential-quantification-in-detail](https://stackoverflow.com/questions/9259921/haskell-existential-quantification-in-detail)
 
 [https://ocharles.org.uk/guest-posts/2014-12-19-existential-quantification.html](https://ocharles.org.uk/guest-posts/2014-12-19-existential-quantification.html)

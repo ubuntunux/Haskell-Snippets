@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / TypeOperators.md
+## TypeOperators
 [https://typeclasses.com/ghc/type-operators](https://typeclasses.com/ghc/type-operators)
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-TypeOperators](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-TypeOperators)
 [https://ocharles.org.uk/posts/2014-12-08-type-operators.html](https://ocharles.org.uk/posts/2014-12-08-type-operators.html)

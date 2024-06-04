@@ -1,3 +1,4 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Unicode 다루기.md
 #### Unicode를 ByteCode로 다루기
 
     import Prelude hiding (putStr) -- putStr을 숨긴다.

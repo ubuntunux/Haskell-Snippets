@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / High Performance Haskell.md
+## High Performance Haskell
 [https://confengine.com/functional-conf-2018/proposal/6774/high-performance-haskell](https://confengine.com/functional-conf-2018/proposal/6774/high-performance-haskell)
 
 [https://wiki.haskell.org/Performance/Monads](https://wiki.haskell.org/Performance/Monads)

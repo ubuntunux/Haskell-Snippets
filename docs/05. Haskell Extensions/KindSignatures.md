@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / KindSignatures.md
+## KindSignatures
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-KindSignatures](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#extension-KindSignatures)
 
 [https://stackoverflow.com/questions/9857553/kind-signatures](https://stackoverflow.com/questions/9857553/kind-signatures)

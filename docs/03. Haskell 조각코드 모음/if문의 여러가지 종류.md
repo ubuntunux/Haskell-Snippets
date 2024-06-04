@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / if문의 여러가지 종류.md
+## if문의 여러가지 종류
 ```
 fn :: Int -> Int -> String
 fn x y = if x == 1 then "a"

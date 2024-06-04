@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / GADTs - Generalized algebraic datatype.md
+## GADTs : Generalized algebraic datatype
 [http://dev.stephendiehl.com/hask/#gadts](http://dev.stephendiehl.com/hask/#gadts)
 
 [https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)<br>

@@ -1,0 +1,18 @@
+> [Haskell Snippets](../README.md) / 02. Haskell 기초
+## 02. Haskell 기초
+- [Configuring fails: Could NOT find PythonInterp](Configuring%20fails%20-%20Could%20NOT%20find%20PythonInterp.md)
+- [Functors, Applicatives, And Monads In Pictures](Functors,%20Applicatives,%20And%20Monads%20In%20Pictures.md)
+- [Haskell Style Guide](Haskell%20Style%20Guide.md)
+- [패턴매칭](Haskell%20패턴매칭%20주의할점.md)
+- [Keyword ( 하스켈 키워드 )](Keyword%20(%20하스켈%20키워드%20).md)
+- [Package 정보 알아내기](Package%20정보%20알아내기.md)
+- [Pragma의 종류 ( GHC 확장 및 옵션 설정방법 )](Pragma의%20종류%20(%20GHC%20확장%20및%20옵션%20설정방법%20).md)
+- [Top level mutable state](Top%20level%20mutable%20state.md)
+- [Type Class](Type%20Class.md)
+- [Unsafe](Unsafe.md)
+- [Weak Head Normal Foam - WHNF](Weak%20Head%20Normal%20Foam%20-%20WHNF.md)
+- [ghci prompt 바꾸기](ghci%20prompt%20바꾸기.md)
+- [각종 오류상황 대처하기](각종%20오류상황%20대처하기/README.md)
+	- [It is a member of the hidden package. 패키지가 안불러와 질때... ](각종%20오류상황%20대처하기/It%20is%20a%20member%20of%20the%20hidden%20package.%20패키지가%20안불러와%20질때...%20.md)
+	- [stack new, stack init fail](각종%20오류상황%20대처하기/stack%20new,%20stack%20init%20fail.md)
+- [설치된 패키지 목록 보기](설치된%20패키지%20목록%20보기.md)

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Math.md
+## Math
 [https://hackage.haskell.org/package/ClassyPrelude-0.1/docs/Prelude-Math.html](https://hackage.haskell.org/package/ClassyPrelude-0.1/docs/Prelude-Math.html)
 
 [https://hackage.haskell.org/package/base-4.12.0.0/docs/Numeric.html](https://hackage.haskell.org/package/base-4.12.0.0/docs/Numeric.html)

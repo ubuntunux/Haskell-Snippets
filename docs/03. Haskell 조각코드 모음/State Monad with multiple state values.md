@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / State Monad with multiple state values.md
+## State Monad with multiple state values
 [https://stackoverflow.com/questions/19227418/state-monad-with-multiple-state-values](https://stackoverflow.com/questions/19227418/state-monad-with-multiple-state-values)
 
 This allows more than one value, but it's hairier :) This is nicely simplified with Daniel's suggestion of Dynamic.

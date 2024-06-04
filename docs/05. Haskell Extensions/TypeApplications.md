@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / TypeApplications.md
+## TypeApplications
 [https://gitlab.haskell.org/ghc/ghc/wikis/type-application](https://gitlab.haskell.org/ghc/ghc/wikis/type-application)
 
 [https://kseo.github.io/posts/2017-01-08-visible-type-application-ghc8.html](https://kseo.github.io/posts/2017-01-08-visible-type-application-ghc8.html)

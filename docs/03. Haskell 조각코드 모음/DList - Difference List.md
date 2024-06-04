@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / DList - Difference List.md
+## DList - Difference List
 [http://hackage.haskell.org/package/dlist-0.8.0.7/docs/Data-DList.html](http://hackage.haskell.org/package/dlist-0.8.0.7/docs/Data-DList.html)
 
 [http://h2.jaguarpaw.co.uk/posts/demystifying-dlist/](http://h2.jaguarpaw.co.uk/posts/demystifying-dlist/)

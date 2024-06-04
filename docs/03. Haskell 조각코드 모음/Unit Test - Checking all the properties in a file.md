@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Unit Test - Checking all the properties in a file.md
+## Unit Test - Checking all the properties in a file
 quickCheckAll is a Template Haskell helper which finds all the definitions in the current file whose name begins with prop_ and tests them.
 
 ```

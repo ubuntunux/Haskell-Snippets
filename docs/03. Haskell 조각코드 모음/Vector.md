@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Vector.md
+## Vector
 [https://wiki.haskell.org/Numeric_Haskell:_A_Vector_Tutorial](https://wiki.haskell.org/Numeric_Haskell:_A_Vector_Tutorial)
 
 [http://hackage.haskell.org/package/vector-0.5/docs/Data-Vector-Storable.html#t%3AVector](http://hackage.haskell.org/package/vector-0.5/docs/Data-Vector-Storable.html#t%3AVector)

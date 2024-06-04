@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / Type Families.md
+## Type Families
 [https://free.cofree.io/2019/01/08/defunctionalization/](https://free.cofree.io/2019/01/08/defunctionalization/)
 
 [https://wiki.haskell.org/GHC/Type_families](https://wiki.haskell.org/GHC/Type_families)

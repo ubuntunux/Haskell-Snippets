@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / RankNTypes.md
+## RankNTypes
 [https://ocharles.org.uk/guest-posts/2014-12-18-rank-n-types.html](https://ocharles.org.uk/guest-posts/2014-12-18-rank-n-types.html)
 
 [https://opentutorials.org/course/2063/11681](https://opentutorials.org/course/2063/11681)

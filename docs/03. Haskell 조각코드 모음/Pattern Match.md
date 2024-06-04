@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [03. Haskell 조각코드 모음](README.md) / Pattern Match.md
+## Pattern Match
 ```
 f::Int -> Int -> IO Int
 f x y 

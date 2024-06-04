@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / rio.md
+## rio
 [https://tech.fpcomplete.com/haskell/library/rio](https://tech.fpcomplete.com/haskell/library/rio)
 
 [https://hackage.haskell.org/package/rio](https://hackage.haskell.org/package/rio)

@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [05. Haskell Extensions](README.md) / FlexibleInstances.md
+## FlexibleInstances
 [https://connectionrequired.com/blog/2009/07/my-first-introduction-to-haskell-extensions-flexibleinstances](https://connectionrequired.com/blog/2009/07/my-first-introduction-to-haskell-extensions-flexibleinstances)
 
 typeclass의 instance를 정의할때 타입변수를 두번 나타낼수 있게 해줍니다.

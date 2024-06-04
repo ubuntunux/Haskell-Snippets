@@ -1,3 +1,5 @@
+> [Haskell Snippets](../README.md) / [04. Advanced Haskell](README.md) / stack profile.md
+## stack profile
 [https://stackoverflow.com/questions/32123475/profiling-builds-with-stack](https://stackoverflow.com/questions/32123475/profiling-builds-with-stack)
 
 [https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/profiling.html](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/profiling.html)
