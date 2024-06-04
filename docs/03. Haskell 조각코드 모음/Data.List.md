@@ -1,0 +1,1 @@
+[https://hackage.haskell.org/package/base-4.12.0.0/docs/Data-List.html](https://hackage.haskell.org/package/base-4.12.0.0/docs/Data-List.html)

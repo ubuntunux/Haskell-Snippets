@@ -1,0 +1,1 @@
+[https://gitlab.haskell.org/ghc/ghc/-/wikis/Visual-Studio-Code](https://gitlab.haskell.org/ghc/ghc/-/wikis/Visual-Studio-Code)

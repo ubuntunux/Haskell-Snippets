@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/guest-posts/2014-12-07-list-comprehensions.html](https://ocharles.org.uk/guest-posts/2014-12-07-list-comprehensions.html)

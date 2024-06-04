@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/posts/2014-12-10-nullary-type-classes.html](https://ocharles.org.uk/posts/2014-12-10-nullary-type-classes.html)

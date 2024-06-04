@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/posts/2014-12-13-multi-param-type-classes.html](https://ocharles.org.uk/posts/2014-12-13-multi-param-type-classes.html)

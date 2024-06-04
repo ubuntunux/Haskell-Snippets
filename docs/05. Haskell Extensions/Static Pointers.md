@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/guest-posts/2014-12-23-static-pointers.html](https://ocharles.org.uk/guest-posts/2014-12-23-static-pointers.html)

@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/posts/2014-12-16-derive-generic.html](https://ocharles.org.uk/posts/2014-12-16-derive-generic.html)

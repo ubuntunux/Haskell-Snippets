@@ -1,0 +1,1 @@
+[https://github.com/haskell/haskell-mode](https://github.com/haskell/haskell-mode)

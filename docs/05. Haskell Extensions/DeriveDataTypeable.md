@@ -1,0 +1,1 @@
+[https://chrisdone.com/posts/data-typeable/](https://chrisdone.com/posts/data-typeable/)

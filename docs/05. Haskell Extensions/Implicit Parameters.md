@@ -1,0 +1,1 @@
+[https://ocharles.org.uk/posts/2014-12-11-implicit-params.html](https://ocharles.org.uk/posts/2014-12-11-implicit-params.html)
